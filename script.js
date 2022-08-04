@@ -12,4 +12,5 @@ botao.addEventListener('click',function(){
   let valorCaixa=caixa.value
   valores(valorCaixa)
 })
-  
+ 
+// muchas gracias
